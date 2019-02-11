@@ -1,0 +1,13 @@
+body, html {
+	width: 100%;
+	text-align: center;
+	margin-top: 40px;
+}
+img {
+	width: 20%;
+	transition: all 1s ease-in;
+}
+img:hover {
+	margin-top: 80px;
+	margin-left: 80px;
+}
